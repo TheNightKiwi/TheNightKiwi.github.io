@@ -30,8 +30,7 @@ twitter_username:
 github_username:  thenightkiwi
 
 # Build settings
-theme: just-the-docs
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
