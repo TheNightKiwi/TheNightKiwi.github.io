@@ -30,7 +30,8 @@ twitter_username:
 github_username:  thenightkiwi
 
 # Build settings
-theme: minima
+remote_theme: broccolini/swiss
+#theme: minima
 plugins:
   - jekyll-feed
 
